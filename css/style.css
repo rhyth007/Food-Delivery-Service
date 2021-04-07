@@ -23,7 +23,7 @@ html{
 #navbar{
     display: flex;
     align-items: center;
-   
+     position: relative;
  
 }
 
